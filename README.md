@@ -4,7 +4,10 @@ Lab notebook github repo
 - Design review.
 - Researched bluetooth connectivity with cell phone.
 - [ESP32 CAM Research](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
-- Discovered many problems with 3.3 volt input
+- Discovered many problems with 3.3 volt input of camera through online reccomendations
+- ![image](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/cdcdf42f-f0c5-42bc-bc7d-c81eb75f40b9)
+- Ordered FTDI programmer for camera.
+
 ## 3/2 - 3/9
 - Completed teamwork evaluation.
 - Researched Wi-Fi and ESP32 Programming.
@@ -17,5 +20,6 @@ Lab notebook github repo
 - Checked out development board for code testing.
 - Combined my wifi and alarm programs with Brandon's bluetooth program.  
 - Arduino IDE ESP32 library versions for bluetooth code and telegram code are incompatible. Had to find a new telegram library i.e. Universal Telegram Bot.
+- ![image](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/45f3d6a2-ea8f-43e7-ad3e-60a8a41b30d1)
 ## 3/24 - 3/30
 - Discovered camera quality defects. Adjusted camera settings with old code and Arduino camera server example. Slight improvement.
