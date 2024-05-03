@@ -28,8 +28,8 @@
 - Discovered that Bluetooth and Wifi share the same antenna and are therefore incompatible together
 - Discovered camera quality defects. Adjusted camera settings with old code and Arduino camera server example. Slight improvement.
 -  ### Poor Quality Camera Capture vs Original Camera Captures Before Quality Diminished
-![image](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/2093caae-9c16-4ee8-aee6-8bf0e01d49a0 =100x20)
- <img src= https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/36271505-35a5-44d9-821f-e741b687f039 alt="drawing" width="200"/>
+ <img src= https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/2093caae-9c16-4ee8-aee6-8bf0e01d49a0 alt="drawing" width="200"/>
+ <img src= https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/36271505-35a5-44d9-821f-e741b687f039 alt="drawing" width="200"/> \
 ## 3/31 - 4/6
 - Soldered PCB.
 - Encountered issues programming PCB, so we broke open a USB cable and programmed it using the D+ and D- pins.
