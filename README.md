@@ -27,7 +27,6 @@
 ## 3/24 - 3/30 
 - Discovered that Bluetooth and Wifi share the same antenna and are therefore incompatible together
 - Discovered camera quality defects. Adjusted camera settings with old code and Arduino camera server example. Slight improvement.
-
 ## 3/31 - 4/6
 - Soldered PCB.
 - Encountered issues programming PCB, so we broke open a USB cable and programmed it using the D+ and D- pins.
