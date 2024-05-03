@@ -5,7 +5,7 @@ Lab notebook github repo
 - Researched bluetooth connectivity with cell phone.
 - [ESP32 CAM Research](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
 - Discovered many problems with 3.3 volt input of camera through online reccomendations
--![image](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/11ba540a-e1da-436e-9d32-f363bf612222)
+- ![image](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/11ba540a-e1da-436e-9d32-f363bf612222)
 - Ordered FTDI programmer for camera.
 - Discussed with team how to calibrate bike lock. Determined closed loop within the bike lock was best.
 ## 3/2 - 3/9
@@ -23,5 +23,5 @@ Lab notebook github repo
 - ![image](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/6de475d4-0aa1-428e-9315-8eb3531c7928)
 ## 3/24 - 3/30
 - Discovered camera quality defects. Adjusted camera settings with old code and Arduino camera server example. Slight improvement.
--![Poor Quality Camera Capture](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/2093caae-9c16-4ee8-aee6-8bf0e01d49a0)
--![Original Image Before Quality Diminished](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/36271505-35a5-44d9-821f-e741b687f039)
+- ![Poor Quality Camera Capture](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/2093caae-9c16-4ee8-aee6-8bf0e01d49a0)
+- ![Original Image Before Quality Diminished](https://github.com/natasha-sherlock/ECE445_Bike_Theft_Detector/assets/156775876/36271505-35a5-44d9-821f-e741b687f039)
